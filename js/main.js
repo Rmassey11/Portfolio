@@ -616,7 +616,7 @@
     });
 
     /*----------- Contact -----------*/
-
+    /*Begin comment out---------
     $('.contact-form').on('submit', function(event) {
       var form = $(this);
       var submitBtn = form.find('#contact-submit');
@@ -659,7 +659,7 @@
           });
       }, 1000);
     });
-
+    --------end comment out*/
   });
   $(window).on('load', function() {
     /*----------- Preloader -----------*/
