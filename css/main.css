@@ -112,6 +112,15 @@ hr {
 }
 
 /* Section, title & description styles */
+.html5icon{
+  color: orangered;
+}
+
+.cSharpLogo{
+  max-width: fit-content;
+  max-height: 70px;
+}
+
 .single-section {
   background-color: #fff;
   padding: 85px 40px;
